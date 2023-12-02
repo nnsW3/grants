@@ -43,7 +43,7 @@ body:
         A project’s timeline for completion should be no longer than 6 months. It can be shorter than 6 months. Milestones should be present for each 2-month interval of your project
       placeholder: |
         [DATE]: [MILESTONE]
-        e.g. Project expected to take 4 months for completion, with an assumed August 15th start date.
+        e.g. Project is expected to take 4 months for completion, with an assumed August 15th start date.
         15 October 2023: Detailed deliverable
         15 December 2023: Detailed deliverable of completion
     validations:
@@ -111,10 +111,10 @@ body:
         By submitting this grant application, you agree to comply with the terms and conditions of the grants program.
 
         1. Grantees and Taiko Labs will establish and sign an agreement detailing the expectations and responsibilities of both parties.
-        2. Before execution of the agreement, discretion for changes in the program rest exclusively with Taiko Labs.
+        2. Before execution of the agreement, discretion for changes in the program rests exclusively with Taiko Labs.
         3. Taiko Labs or its associated entities receive priority to invest up to $250K USD in a subsequent funding round if the project fundraises within one year post-grant acceptance.
         4. Grantees can apply for grants from other projects, given all other requirements are met.
-        5. Projects involving dApps must choose Taiko as one of their very first platforms, but they can also deploy elsewhere if they see fit. We do look favourably upon Taiko-tailored projects: those that truly take advantage of Taiko’s strengths and design decisions, such as Ethereum-equivalence and permissionless proposing and proving. 
+        5. Projects involving dApps must choose Taiko as one of their very first platforms, but they can also deploy elsewhere if they see fit. We do look favorably upon Taiko-tailored projects: those that truly take advantage of Taiko’s strengths and design decisions, such as Ethereum-equivalence and permissionless proposing and proving. 
         6. Unless explicitly stated otherwise, all code should be open-sourced from the project's inception.
       options:
         - label: I agree to comply with the terms and conditions of the grants program
